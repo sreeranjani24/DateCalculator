@@ -1,5 +1,4 @@
 # DateCalculator
-Project name: DateCalculator
 
 Description:
 Calculate the days between two dates( first date being smaller than the second date).
